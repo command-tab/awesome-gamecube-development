@@ -45,6 +45,9 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 * [Metroid Prime](https://github.com/PrimeDecomp/prime) - An in-progress decompilation of _Metroid Prime_
 * [Naruto: Gekitō Ninja Taisen! 4](https://github.com/doldecomp/gnt4) - An in-progress decompilation of _Naruto: Gekitō Ninja Taisen! 4_
 * [Paper Mario: The Thousand-Year Door](https://github.com/NWPlayer123/PaperMario2) - An in-progress decompilation of _Paper Mario: The Thousand-Year Door_
+* [Sonic Adventure DX](https://github.com/doldecomp/sadx) - An in-progress decompilation of _Sonic Adventure DX_
+* [SpongeBob SquarePants: Battle for Bikini Bottom](https://github.com/bfbbdecomp/bfbb) - An in-progress decompilation of _SpongeBob SquarePants: Battle for Bikini Bottom_
 * [Super Mario Sunshine](https://github.com/doldecomp/sms) - An in-progress decompilation of _Super Mario Sunshine_
 * [Super Monkey Ball](https://github.com/camthesaxman/smb-decomp) - An in-progress decompilation of _Super Monkey Ball_
 * [Super Smash Bros. Melee](https://github.com/doldecomp/melee) - An in-progress decompilation of _Super Smash Bros. Melee_
+* [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp) - An in-progress decompilation of _The Legend of Zelda: Twilight Princess_
