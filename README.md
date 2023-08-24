@@ -20,6 +20,7 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 ## Emulators
 
 * [Dolphin](https://dolphin-emu.org) - The preeminent GameCube (and Wii) emulator
+* [Eterna](https://github.com/NWPlayer123/eterna) - A modern in-progress emulator written in Rust
 
 ## Development Hardware
 
