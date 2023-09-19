@@ -37,6 +37,8 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 
 * [Animal Crossing](https://github.com/prakxo/ac-decomp) - An in-progress decompilation of _Animal Crossing_
 * [Chibi-Robo!](https://github.com/eavpsp/cbr_decomp) - An in-progress decompilation of _Chibi-Robo!_
+* [Harvest Moon: A Wonderful Life](https://github.com/ChrisNonyminus/hmawl) - An in-progress decompilation of _Harvest Moon: A Wonderful Life_
+* [Homeland](https://github.com/bttrdrgn/homeland) - An in-progress decompilation of _Homeland_
 * [Kirby Air Ride](https://github.com/doldecomp/kar) - An in-progress decompilation of _Kirby Air Ride_
 * [Luigi's Mansion](https://github.com/Sage-of-Mirrors/zmansion) - An in-progress decompilation of _Luigi's Mansion_
 * [Mario Kart: Double Dash!!](https://github.com/SwareJonge/mkdd) - An in-progress decompilation of _Mario Kart: Double Dash!!_
@@ -55,5 +57,6 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 * [Super Mario Sunshine](https://github.com/doldecomp/sms) - An in-progress decompilation of _Super Mario Sunshine_
 * [Super Monkey Ball](https://github.com/camthesaxman/smb-decomp) - An in-progress decompilation of _Super Monkey Ball_
 * [Super Smash Bros. Melee](https://github.com/doldecomp/melee) - An in-progress decompilation of _Super Smash Bros. Melee_
+* [The Legend of Zelda: The Wind Waker](https://github.com/zeldaret/tww) - An in-progress decompilation of _The Legend of Zelda: The Wind Waker_
 * [The Legend of Zelda: Twilight Princess](https://github.com/zeldaret/tp) - An in-progress decompilation of _The Legend of Zelda: Twilight Princess_
 * [Ty the Tasmanian Tiger](https://github.com/1superchip/ty-decomp) - An in-progress decompilation of _Ty the Tasmanian Tiger_
