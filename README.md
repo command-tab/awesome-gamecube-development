@@ -43,7 +43,7 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 * [Luigi's Mansion](https://github.com/Sage-of-Mirrors/zmansion) - An in-progress decompilation of _Luigi's Mansion_
 * [Mario Kart: Double Dash!!](https://github.com/SwareJonge/mkdd) - An in-progress decompilation of _Mario Kart: Double Dash!!_
 * [Mario Party 4](https://github.com/Rainchus/mp4-dtk) - An in-progress decompilation of _Mario Party 4_
-* [Mario Party 5](https://github.com/Rainchus/marioparty5) - An in-progress decompilation of _Mario Party 5_
+* [Mario Party 5](https://github.com/Rainchus/mp5-dtk) - An in-progress decompilation of _Mario Party 5_
 * [Mario Party 6](https://github.com/Rainchus/marioparty6) - An in-progress decompilation of _Mario Party 6_
 * [Mario Party 7](https://github.com/Rainchus/marioparty7) - An in-progress decompilation of _Mario Party 7_
 * [Metroid Prime](https://github.com/PrimeDecomp/prime) - An in-progress decompilation of _Metroid Prime_
