@@ -42,11 +42,11 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 * [Kirby Air Ride](https://github.com/doldecomp/kar) - An in-progress decompilation of _Kirby Air Ride_
 * [Luigi's Mansion](https://github.com/Sage-of-Mirrors/zmansion) - An in-progress decompilation of _Luigi's Mansion_
 * [Mario Kart: Double Dash!!](https://github.com/SwareJonge/mkdd) - An in-progress decompilation of _Mario Kart: Double Dash!!_
-* [Mario Superstar Baseball](https://github.com/roeming/mssbdecomp) - An in-progress decompilation of _Mario Superstar Baseball_
 * [Mario Party 4](https://github.com/Rainchus/marioparty4) - An in-progress decompilation of _Mario Party 4_
 * [Mario Party 5](https://github.com/Rainchus/marioparty5) - An in-progress decompilation of _Mario Party 5_
 * [Mario Party 6](https://github.com/Rainchus/marioparty6) - An in-progress decompilation of _Mario Party 6_
 * [Mario Party 7](https://github.com/Rainchus/marioparty7) - An in-progress decompilation of _Mario Party 7_
+* [Mario Superstar Baseball](https://github.com/roeming/mssbdecomp) - An in-progress decompilation of _Mario Superstar Baseball_
 * [Metroid Prime](https://github.com/PrimeDecomp/prime) - An in-progress decompilation of _Metroid Prime_
 * [Metroid Prime 2: Echoes](https://github.com/PrimeDecomp/echoes) - An in-progress decompilation of _Metroid Prime 2: Echoes_
 * [Naruto: Gekitō Ninja Taisen! 4](https://github.com/doldecomp/gnt4) - An in-progress decompilation of _Naruto: Gekitō Ninja Taisen! 4_
