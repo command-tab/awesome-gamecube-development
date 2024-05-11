@@ -46,10 +46,11 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 * [Mario Party 5](https://github.com/Rainchus/marioparty5) - An in-progress decompilation of _Mario Party 5_
 * [Mario Party 6](https://github.com/Rainchus/marioparty6) - An in-progress decompilation of _Mario Party 6_
 * [Mario Party 7](https://github.com/Rainchus/marioparty7) - An in-progress decompilation of _Mario Party 7_
+* [Mario Superstar Baseball](https://github.com/roeming/mssbdecomp) - An in-progress decompilation of _Mario Superstar Baseball_
 * [Metroid Prime](https://github.com/PrimeDecomp/prime) - An in-progress decompilation of _Metroid Prime_
 * [Metroid Prime 2: Echoes](https://github.com/PrimeDecomp/echoes) - An in-progress decompilation of _Metroid Prime 2: Echoes_
 * [Naruto: Gekitō Ninja Taisen! 4](https://github.com/doldecomp/gnt4) - An in-progress decompilation of _Naruto: Gekitō Ninja Taisen! 4_
-* [Paper Mario: The Thousand-Year Door](https://github.com/Rainchus/ttyd-dtk) - An in-progress decompilation of _Paper Mario: The Thousand-Year Door_
+* [Paper Mario: The Thousand-Year Door](https://github.com/Rainchus/ttyd_dtk) - An in-progress decompilation of _Paper Mario: The Thousand-Year Door_
 * [Pikmin](https://github.com/projectPiki/pikmin) - An in-progress decompilation of _Pikmin_
 * [Pikmin 2](https://github.com/projectPiki/pikmin2) - An in-progress decompilation of _Pikmin 2_
 * [Sonic Adventure DX](https://github.com/doldecomp/sadx) - An in-progress decompilation of _Sonic Adventure DX_
