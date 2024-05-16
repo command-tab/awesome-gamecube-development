@@ -27,6 +27,10 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 
 ## Tools and Libraries
 
+* [decomp-toolkit](https://github.com/encounter/decomp-toolkit) - A GameCube and Wii decompilation toolkit
+* [dtk-template](https://github.com/encounter/dtk-template) - A project template for GameCube and Wii decompilation projects
+* [dtk-template-build](https://github.com/encounter/dtk-template-build) - A build repository template for the aforementioned dtk-template
+* [objdiff](https://github.com/encounter/objdiff) - A local diffing tool for decompilation projects
 * [Swiss](https://github.com/emukidid/swiss-gc) - An all-in-one homebrew utility capable of launching homebrew from a variety of devices
 
 ## Reverse Engineering
