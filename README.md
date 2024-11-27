@@ -39,17 +39,17 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 
 #### Game Decompilation
 
-* [Animal Crossing](https://github.com/prakxo/ac-decomp) - An in-progress decompilation of _Animal Crossing_
+* [Animal Crossing](https://github.com/acreteam/ac-decomp) - An in-progress decompilation of _Animal Crossing_
 * [Chibi-Robo!](https://github.com/eavpsp/cbr_decomp) - An in-progress decompilation of _Chibi-Robo!_
 * [Harvest Moon: A Wonderful Life](https://github.com/ChrisNonyminus/hmawl) - An in-progress decompilation of _Harvest Moon: A Wonderful Life_
 * [Homeland](https://github.com/bttrdrgn/homeland) - An in-progress decompilation of _Homeland_
 * [Kirby Air Ride](https://github.com/doldecomp/kar) - An in-progress decompilation of _Kirby Air Ride_
 * [Luigi's Mansion](https://github.com/Sage-of-Mirrors/zmansion) - An in-progress decompilation of _Luigi's Mansion_
 * [Mario Kart: Double Dash!!](https://github.com/SwareJonge/mkdd) - An in-progress decompilation of _Mario Kart: Double Dash!!_
-* [Mario Party 4](https://github.com/Rainchus/marioparty4) - An in-progress decompilation of _Mario Party 4_
-* [Mario Party 5](https://github.com/Rainchus/marioparty5) - An in-progress decompilation of _Mario Party 5_
-* [Mario Party 6](https://github.com/Rainchus/marioparty6) - An in-progress decompilation of _Mario Party 6_
-* [Mario Party 7](https://github.com/Rainchus/marioparty7) - An in-progress decompilation of _Mario Party 7_
+* [Mario Party 4](https://github.com/mariopartyrd/marioparty4) - An in-progress decompilation of _Mario Party 4_
+* [Mario Party 5](https://github.com/mariopartyrd/marioparty5) - An in-progress decompilation of _Mario Party 5_
+* [Mario Party 6](https://github.com/mariopartyrd/marioparty6) - An in-progress decompilation of _Mario Party 6_
+* [Mario Party 7](https://github.com/mariopartyrd/marioparty7) - An in-progress decompilation of _Mario Party 7_
 * [Mario Superstar Baseball](https://github.com/roeming/mssbdecomp) - An in-progress decompilation of _Mario Superstar Baseball_
 * [Metroid Prime](https://github.com/PrimeDecomp/prime) - An in-progress decompilation of _Metroid Prime_
 * [Metroid Prime 2: Echoes](https://github.com/PrimeDecomp/echoes) - An in-progress decompilation of _Metroid Prime 2: Echoes_
