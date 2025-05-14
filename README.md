@@ -44,7 +44,7 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 * [Harvest Moon: A Wonderful Life](https://github.com/ChrisNonyminus/hmawl) - An in-progress decompilation of _Harvest Moon: A Wonderful Life_
 * [Homeland](https://github.com/bttrdrgn/homeland) - An in-progress decompilation of _Homeland_
 * [Kirby Air Ride](https://github.com/doldecomp/kar) - An in-progress decompilation of _Kirby Air Ride_
-* [Luigi's Mansion](https://github.com/Sage-of-Mirrors/zmansion) - An in-progress decompilation of _Luigi's Mansion_
+* [Luigi's Mansion](https://github.com/Moddimation/Yasiki) - An in-progress decompilation of _Luigi's Mansion_
 * [Mario Kart: Double Dash!!](https://github.com/SwareJonge/mkdd) - An in-progress decompilation of _Mario Kart: Double Dash!!_
 * [Mario Party 4](https://github.com/mariopartyrd/marioparty4) - An in-progress decompilation of _Mario Party 4_
 * [Mario Party 5](https://github.com/mariopartyrd/marioparty5) - An in-progress decompilation of _Mario Party 5_
