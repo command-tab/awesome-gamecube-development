@@ -41,6 +41,7 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 
 * [Animal Crossing](https://github.com/acreteam/ac-decomp) - An in-progress decompilation of _Animal Crossing_
 * [Chibi-Robo!](https://github.com/eavpsp/cbr_decomp) - An in-progress decompilation of _Chibi-Robo!_
+* [Doshin the Giant](https://github.com/break-core/doshin-gc) - An in-progress decompilation of _Doshin the Giant_
 * [Harvest Moon: A Wonderful Life](https://github.com/ChrisNonyminus/hmawl) - An in-progress decompilation of _Harvest Moon: A Wonderful Life_
 * [Homeland](https://github.com/bttrdrgn/homeland) - An in-progress decompilation of _Homeland_
 * [Kirby Air Ride](https://github.com/doldecomp/kar) - An in-progress decompilation of _Kirby Air Ride_
@@ -57,6 +58,8 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 * [Paper Mario: The Thousand-Year Door](https://github.com/doldecomp/ttyd) - An in-progress decompilation of _Paper Mario: The Thousand-Year Door_
 * [Pikmin](https://github.com/projectPiki/pikmin) - An in-progress decompilation of _Pikmin_
 * [Pikmin 2](https://github.com/projectPiki/pikmin2) - An in-progress decompilation of _Pikmin 2_
+* [Ratatouille](https://github.com/zounadecomp/ratdecomp) - An in-progress decompilation of _Ratatouille_
+* [Skies of Arcadia Legends](https://github.com/rainchus/skiesofarcadialegends) - An in-progress decompilation of _Skies of Arcadia Legends_
 * [Sonic Adventure DX](https://github.com/doldecomp/sadx) - An in-progress decompilation of _Sonic Adventure DX_
 * [Sonic Riders](https://github.com/doldecomp/sonicriders) - An in-progress decompilation of _Sonic Riders_
 * [SpongeBob SquarePants: Battle for Bikini Bottom](https://github.com/bfbbdecomp/bfbb) - An in-progress decompilation of _SpongeBob SquarePants: Battle for Bikini Bottom_
