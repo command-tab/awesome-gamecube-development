@@ -55,6 +55,8 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 * [Metroid Prime](https://github.com/PrimeDecomp/prime) - An in-progress decompilation of _Metroid Prime_
 * [Metroid Prime 2: Echoes](https://github.com/PrimeDecomp/echoes) - An in-progress decompilation of _Metroid Prime 2: Echoes_
 * [Naruto: Gekitō Ninja Taisen! 4](https://github.com/doldecomp/gnt4) - An in-progress decompilation of _Naruto: Gekitō Ninja Taisen! 4_
+* [Need for Speed: Most Wanted](https://github.com/dbalatoni13/nfsmw) - An in-progress decompilation of _Need for Speed: Most Wanted_
+* [Need for Speed: Underground](https://github.com/dbalatoni13/nfsug) - An in-progress decompilation of _Need for Speed: Underground_
 * [Paper Mario: The Thousand-Year Door](https://github.com/doldecomp/ttyd) - An in-progress decompilation of _Paper Mario: The Thousand-Year Door_
 * [Pikmin](https://github.com/projectPiki/pikmin) - An in-progress decompilation of _Pikmin_
 * [Pikmin 2](https://github.com/projectPiki/pikmin2) - An in-progress decompilation of _Pikmin 2_
