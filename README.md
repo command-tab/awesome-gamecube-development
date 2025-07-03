@@ -23,7 +23,7 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 
 ## Development Hardware
 
-* [GC Loader PnP](https://gc-loader.com) - (Also available at [Black Dog Tech](https://www.black-dog.tech/gc-loader-pnp.html)) A plug-and-play DVD drive replacement capable of loading backups and homebrew
+* [GC Loader PnP](https://gc-loader.com) - (Also available at [Black Dog Tech](https://www.black-dog.tech)) A plug-and-play DVD drive replacement capable of loading backups and homebrew
 
 ## Tools and Libraries
 
