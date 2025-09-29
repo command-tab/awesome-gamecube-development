@@ -42,6 +42,7 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 * [Animal Crossing](https://github.com/acreteam/ac-decomp) - An in-progress decompilation of _Animal Crossing_
 * [Chibi-Robo!](https://github.com/eavpsp/cbr_decomp) - An in-progress decompilation of _Chibi-Robo!_
 * [Doshin the Giant](https://github.com/break-core/doshin-gc) - An in-progress decompilation of _Doshin the Giant_
+* [Dōbutsu no Mori e+](https://github.com/acreteam/afe-decomp) - An in-progress decompilation of _Dōbutsu no Mori e+_
 * [Harvest Moon: A Wonderful Life](https://github.com/ChrisNonyminus/hmawl) - An in-progress decompilation of _Harvest Moon: A Wonderful Life_
 * [Homeland](https://github.com/bttrdrgn/homeland) - An in-progress decompilation of _Homeland_
 * [Kirby Air Ride](https://github.com/doldecomp/kar) - An in-progress decompilation of _Kirby Air Ride_
