@@ -47,7 +47,7 @@ A curated list of Nintendo GameCube development resources including toolchains, 
 * [Homeland](https://github.com/bttrdrgn/homeland) - An in-progress decompilation of _Homeland_
 * [Kirby Air Ride](https://github.com/doldecomp/kar) - An in-progress decompilation of _Kirby Air Ride_
 * [Luigi's Mansion](https://github.com/sage-of-mirrors/zmansion) - An in-progress decompilation of _Luigi's Mansion_
-* [Mario Kart: Double Dash!!](https://github.com/SwareJonge/mkdd) - An in-progress decompilation of _Mario Kart: Double Dash!!_
+* [Mario Kart: Double Dash!!](https://github.com/doldecomp/mkdd) - An in-progress decompilation of _Mario Kart: Double Dash!!_
 * [Mario Party 4](https://github.com/mariopartyrd/marioparty4) - A **complete** decompilation of _Mario Party 4_
 * [Mario Party 5](https://github.com/mariopartyrd/marioparty5) - An in-progress decompilation of _Mario Party 5_
 * [Mario Party 6](https://github.com/mariopartyrd/marioparty6) - An in-progress decompilation of _Mario Party 6_
