@@ -1,6 +1,8 @@
+
+
 # Awesome GameCube Development
 
-A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more. Currently an early work in progress. Contributions welcome.
+A curated list of Nintendo GameCube development resources including toolchains, documentation, emulators, example code, and more. Currently an early work in progress. Contributions welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Contents
 
